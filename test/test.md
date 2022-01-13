@@ -1,22 +1,39 @@
-# 마크다운 테스트
-# Title
-***
-## 대주제
-text
-**boldtext**
+마크다운 테스트
+===============
+
+Title
+=====
+
+---
+
+대주제
+------
+
+text**boldtext**
 
 ### 소주제
-text
-**boldtext**
+
+1.	첫번째
+  - 첫번째 중첩
+        * 두번째 중첩
+          * 세번째 중첩
+  - 첫번째 중첩
+        * 두번째 중첩
+          * 세번째 중첩
+2.	두번째
+
+text**boldtext**
+
 >들여쓰기
->들여쓰기2
->들여쓰기3
+>>들여쓰기2
+>>>들여쓰기3
 
 #### 이미지첨부
-<p align="center">
-  <img src="https://camo.githubusercontent.com/3073829860a866037e0ca12f244a9eb5462e4cfa/687474703a2f2f696d6167652e6b796f626f626f6f6b2e636f2e6b722f696d616765732f626f6f6b2f786c617267652f3333302f78393738383936303737373333302e6a7067">
-</p>
+
+<p align="center"> <img src="https://camo.githubusercontent.com/3073829860a866037e0ca12f244a9eb5462e4cfa/687474703a2f2f696d6167652e6b796f626f626f6f6b2e636f2e6b722f696d616765732f626f6f6b2f786c617267652f3333302f78393738383936303737373333302e6a7067"></p>
+
 #### 코드
+
 ```java
 
 @SpringBootTest
@@ -48,5 +65,4 @@ class JpqlTest(
         then(team.members).hasSize(2)
     }
 }
-
 ```
