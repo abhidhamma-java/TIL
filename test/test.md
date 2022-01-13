@@ -9,8 +9,8 @@ text
 text
 **boldtext**
 >들여쓰기
-  >들여쓰기2
-    >들여쓰기3
+>들여쓰기2
+>들여쓰기3
 
 #### 이미지첨부
 <p align="center">
@@ -18,6 +18,7 @@ text
 </p>
 #### 코드
 ```java
+
 @SpringBootTest
 @TestConstructor(autowireMode = TestConstructor.AutowireMode.ALL)
 @Transactional
@@ -47,4 +48,5 @@ class JpqlTest(
         then(team.members).hasSize(2)
     }
 }
+
 ```
