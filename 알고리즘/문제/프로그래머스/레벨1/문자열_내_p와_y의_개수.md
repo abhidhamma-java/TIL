@@ -33,5 +33,5 @@ class Solution {
 ***
 
 ## 사용된 유형
-
-[String을 각각 분리해서 Char로 바꾸기](https://github.com/abhidhamma-java/TIL/blob/main/알고리즘/유형/문자열/String을_각각_분리해서_Char로_바꾸기.md)
+* 문자열
+  * [String을 각각 분리해서 Char로 바꾸기](https://github.com/abhidhamma-java/TIL/blob/main/알고리즘/유형/문자열/String을_각각_분리해서_Char로_바꾸기.md)
