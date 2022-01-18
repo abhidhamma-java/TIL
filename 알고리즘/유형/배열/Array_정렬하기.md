@@ -8,7 +8,9 @@ int[] array = new int[]{5, 4, 3, 2, 1};
 //{1, 2, 3, 4, 5}로 정렬된다 
 Arrays.sort(array);
 
-//다시 내림차순으로 {5, 4, 3, 2, 1}로 정렬된다
+//다시 내림차순으로 {5, 4, 3, 2, 1}로 정렬될것 같지만 
+//primitive type배열은 두번째 매개변수를 받으면 Comparator를 구현해줘야한다
+//boxing해서 사용할수는 있다
 Arrays.sort(arr,Collections.reverseOrder());
 
 //부분 정렬하기
