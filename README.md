@@ -1,8 +1,5 @@
 # TIL
-매일 공부한 내용을 기록하는 저장소
-
-* [프로그래머스](https://github.com/abhidhamma-java/TIL/blob/main/algorithm/programmers.md)
-* [test](https://github.com/abhidhamma-java/TIL/blob/main/test/test.md)
+>매일 공부한 내용을 기록하는 저장소
 
 ## 알고리즘
 * 레벨1
