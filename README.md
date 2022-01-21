@@ -9,7 +9,7 @@
 
 
 * Spring Data
-  * [Spring Data JPA](https://github.com/abhidhamma-java/TIL/blob/main/spring/spring-data/spring-data-jpa/jpa.md)
+  * [Spring Data JPA](https://github.com/abhidhamma-java/TIL/blob/main/spring/spring-data/spring-data-jpa/개념/jpa.md)
 
 
 <!-- * Spring Batch
