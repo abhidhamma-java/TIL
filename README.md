@@ -9,7 +9,7 @@
 
 
 * Spring Data
- * [Spring Data JPA](https://github.com/abhidhamma-java/TIL/blob/main/알고리즘/문제/프로그래머스/레벨1/문자열_내_p와_y의_개수.md)
+  * [Spring Data JPA](https://github.com/abhidhamma-java/TIL/blob/main/알고리즘/문제/프로그래머스/레벨1/문자열_내_p와_y의_개수.md)
 
 
 <!-- * Spring Batch
@@ -24,9 +24,7 @@
 <!-- * React Basic
 * React Hooks -->
 * Recoil
-  * [Atom]()
-  * [Selector]()
-
+  * [TodoList](https://github.com/abhidhamma-java/TIL/blob/main/React/Recoil/TodoList.md)
 ## 사이드프로젝트
 * spring farmwork, spring security로 환경구성해보기
   * [jwt](https://github.com/abhidhamma-java/TIL/blob/main/sideproject/spring/jwt.md)
