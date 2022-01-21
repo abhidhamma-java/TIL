@@ -2,30 +2,42 @@
 >매일 공부한 내용을 기록하는 저장소
 
 ## Spring
-* Spring Framwork
+<!-- * Spring Framwork
 
 
-* Spring Boot
+* Spring Boot -->
 
 
 * Spring Data
  * [Spring Data JPA](https://github.com/abhidhamma-java/TIL/blob/main/알고리즘/문제/프로그래머스/레벨1/문자열_내_p와_y의_개수.md)
 
 
-* Spring Batch
+<!-- * Spring Batch
 
 
 * Spring Security
 
 
-* Spring Cloud
+* Spring Cloud -->
 
 ## React
-* React Basic
-* React Hooks
+<!-- * React Basic
+* React Hooks -->
 * Recoil
-  * Atom
+  * [Atom]()
+  * [Selector]()
 
+## 사이드프로젝트
+* spring farmwork, spring security로 환경구성해보기
+  * [jwt](https://github.com/abhidhamma-java/TIL/blob/main/sideproject/spring/jwt.md)
+  * [jwt + oauth](https://github.com/abhidhamma-java/TIL/blob/main/sideproject/spring/jwt_oauth.md)
+  * [jwt + oauth + jpa](https://github.com/abhidhamma-java/TIL/blob/main/sideproject/spring/jwt_oauth_jpa.md)
+  * 만든 환경으로 프로젝트 진행해보기
+    * [일기장 API(spring boot, lombok)](https://github.com/abhidhamma-java/TIL/blob/main/sideproject/spring/selfhelp.md)
+
+
+* React프로젝트
+  * as
 
 ## 알고리즘
 * 레벨1
