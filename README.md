@@ -24,7 +24,7 @@
 <!-- * React Basic
 * React Hooks -->
 * Recoil
-  * [TodoList](https://github.com/abhidhamma-java/TIL/blob/main/react/recoil/TodoList.md)
+  * [TodoList](https://github.com/abhidhamma-java/TIL/blob/main/react/3.recoil/TodoList.md)
 ## 사이드프로젝트
 * spring farmwork, spring security로 환경구성해보기
   * [jwt](https://github.com/abhidhamma-java/TIL/blob/main/sideproject/spring/jwt.md)
