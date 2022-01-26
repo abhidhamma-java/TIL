@@ -50,3 +50,6 @@
   * [class3](https://github.com/abhidhamma-java/beakjoon/tree/master/src/com/hanji/beakjoon/class3)
 * 코딩테스트
   * [코딩테스트1](https://github.com/abhidhamma-java/TIL/blob/main/algorithm/문제/코딩테스트/220115.md)
+
+
+# **[블로그로 이전되었습니다.](https://www.boongyee.com/)**
